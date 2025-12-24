@@ -1,2 +1,2 @@
-# predictive_email_campaign
-# predictive_email_campaign
+# Predictive Email Campaigns Python Script
+
